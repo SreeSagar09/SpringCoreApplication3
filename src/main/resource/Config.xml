@@ -11,8 +11,7 @@
 		<property name="empId" value="101" />
 		<property name="empName" value="Smith" />
 		<property name="age" value="28" />
-		<property name="designation"
-			value="Software Developer" />
+		<property name="designation" value="Software Developer" />
 	</bean>
 	
 	<bean id="student" class="com.app.Student">
